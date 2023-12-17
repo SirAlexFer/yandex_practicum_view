@@ -17,14 +17,3 @@
 |8|[Определение стоимости автомобилей](Проекты_Яндекс_Практикум/08_Стоимость_автомобилей/cost_cars.ipynb)  |Разработка системы рекомендации стоимости автомобиля на основе его описания.|Градиентный бустинг|
 |9|[Прогнозирование заказов такси](Проекты_Яндекс_Практикум/09_Прогнозирование_заказов_такси/orders_taxi.ipynb)  |Разработка системы предсказания объема заказа.|Временные ряды, регрессия, предсказания|
 |10|[Классификация комментариев](Проекты_Яндекс_Практикум/10_Классификация_комментариев/comments_class.ipynb)  |Определение токсичности комментарии.|Обработка естественного языка, NLP|
-
-
-
-
-### Прочая информация
-- Аккаунт на Codewars \
-[![codewars](https://www.codewars.com/users/SirAlexFer/badges/large)](https://www.codewars.com/users/SirAlexFer)  
-- Аккаунт на LeetCode \
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=SirAlexFer&theme=dark)](https://leetcode.com/SirAlexFer/)
-- [Аккаунт на Kaggle](https://www.kaggle.com/gladalex)
-
